@@ -1,6 +1,0 @@
-GZDoom WebAssembly runtime
-Source: https://github.com/mungus43/tomb-engine/tree/6c735315b8ac1b1dd6646ac78c46bbbdbb775a5c
-Runtime binaries and support archives in this directory came from that commit's demo/ directory.
-License: GPL-3.0; see LICENSE in this directory.
-
-The Ralsei game WADs are supplied separately in ../embedded_wads.js by the community web-port package.

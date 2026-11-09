@@ -1,9 +1,0 @@
-Outertale (Project Spacetime) web package
-
-Source game:
-https://gamejolt.com/games/outertale/643082
-
-Original game by Spacey and contributors (community-maintained 5.10 release).
-This is the official HTML5 build repackaged for self-hosting.
-
-UNDERTALE belongs to Toby Fox. This is an unofficial fan work.
